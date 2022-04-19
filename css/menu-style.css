@@ -17,8 +17,9 @@ h2 {
   font-family: 'Alata', sans-serif;
 }
 
-.navbar-brand {
-  padding-left: 20px;
+
+.nav-item {
+  padding: 0 18px;
 }
 
 .menu {
