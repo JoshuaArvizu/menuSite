@@ -1,0 +1,126 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-family: 'Yellowtail', sans-serif;
+  font-size: 4.5rem;
+  font-weight: normal;
+  padding-top: 20px;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Alata', sans-serif;
+}
+
+p {
+  text-align: center;
+  margin: auto;
+  width: 50%;
+}
+
+
+.header {
+  background-color: #950101;
+}
+
+.carousel-item img {
+  height: 35rem;
+  max-height: 35rem;
+}
+
+.title {
+  background-color: #FF8243;
+  position: relative;
+  padding-top: 100px;
+}
+
+.title-subtext {
+  text-align: center;
+  font-family: 'Alata', sans-serif;
+}
+
+.navbar-brand {
+  padding-left: 20px;
+}
+
+.navbar-custom {
+  height: 100px
+}
+
+.collapse {
+  padding-right: 30px;
+}
+
+/* About us */
+.about-us {
+  background-color: #FF8243;
+  padding-bottom: 50px;
+}
+/* Specials */
+.specials {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.specials-image {
+  height: 400px;
+  width: 100%;
+}
+
+.card-title {
+  text-align: center;
+  font-family: 'Alata', sans-serif;
+}
+
+.card {
+  background-color: #FF8243;
+}
+
+.specials-column {
+  padding-bottom: 30px;
+}
+
+.transition {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+/* Reviews */
+
+.yelp-review{
+  margin: auto;
+}
+
+.review-title {
+  padding-bottom: 30px;
+}
+
+#carouselExampleControls {
+  padding-bottom: 60px;
+}
+
+/* Location */
+.location {
+  background-color: #FF8243;
+}
+
+.location-title {
+  padding-bottom: 20px;
+}
+
+.address {
+  text-align: center;
+}
+
+/* Footer */
+.footer {
+  background-color: #FBE555;
+  padding: 50px 0 20px;
+}
+
+h4 {
+  text-align: center;
+}

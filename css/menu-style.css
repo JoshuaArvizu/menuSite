@@ -1,0 +1,42 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #FF8243;
+}
+
+h1 {
+  padding-top: 5%;
+  font-family: 'Yellowtail', sans-serif;
+  font-size: 4.5rem;
+  font-weight: normal;
+  text-align: center;
+}
+
+h2 {
+  padding: 50px;
+  text-align: center;
+  font-family: 'Alata', sans-serif;
+}
+
+.navbar-brand {
+  padding-left: 20px;
+}
+
+.menu {
+  padding-top: 5%;
+}
+
+.menu-title{
+  padding: 30px, 30px, 30%;
+}
+
+.card-img-top {
+  height: 15rem;
+}
+
+.card {
+  background-color: #FBE555;
+}
+
+.col-lg-4 {
+  padding-bottom: 30px;
+}
